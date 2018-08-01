@@ -1,3 +1,4 @@
+using RestDemo.Views;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -11,8 +12,10 @@ namespace RestDemo
 		{
 			InitializeComponent();
 
-			MainPage = new MainPage();
-		}
+            // MainPage = new MainPage(); -> Throws an error like: PushAsync is not supported globally.....
+            // work around PushAsync is not supported globally
+            MainPage = new NavigationPage(new MainPage());
+        }
 
 		protected override void OnStart ()
 		{

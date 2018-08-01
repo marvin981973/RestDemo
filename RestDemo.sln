@@ -148,7 +148,6 @@ Global
 		{F9726487-E176-49C2-AC1E-18678143D7A1}.AppStore|x86.Build.0 = AppStore|iPhone
 		{F9726487-E176-49C2-AC1E-18678143D7A1}.AppStore|x86.Deploy.0 = AppStore|iPhone
 		{F9726487-E176-49C2-AC1E-18678143D7A1}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
-		{F9726487-E176-49C2-AC1E-18678143D7A1}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
 		{F9726487-E176-49C2-AC1E-18678143D7A1}.Debug|Any CPU.Deploy.0 = Debug|iPhoneSimulator
 		{F9726487-E176-49C2-AC1E-18678143D7A1}.Debug|ARM.ActiveCfg = Debug|iPhone
 		{F9726487-E176-49C2-AC1E-18678143D7A1}.Debug|ARM.Build.0 = Debug|iPhone
