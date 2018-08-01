@@ -6,8 +6,9 @@
         <StackLayout>
             <Label 
                 Text="Call Webservices with HttpClient"
-                FontSize="25"
-                FontAttributes="Bold" />
+                FontSize="18"
+                FontAttributes="Bold" 
+                HorizontalTextAlignment="Center"/>
             <StackLayout 
                 VerticalOptions="Center" 
                 HorizontalOptions="Center">
